@@ -1,0 +1,7 @@
+{
+  "name": "chapinero",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
